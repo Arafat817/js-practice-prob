@@ -5,4 +5,5 @@ const temp=first;
 first= second;
 second= temp;
 console.log(first, second);
-
+// Destructure koreo swap er kaj kora jay
+//[first , second] = [second, first]
